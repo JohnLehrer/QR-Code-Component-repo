@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    overflow: hidden;
+}
+
+table{
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+img{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.first-line{
+    color: hsl(218, 44%, 22%);
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.second-line{
+    color: hsl(218, 44%, 22%);
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.attribution{
+    margin-top: 100px;
+}
